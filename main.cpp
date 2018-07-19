@@ -72,6 +72,7 @@ int entrada;
 	cout<<"3.-Busquedas"<<endl;
 	cout<<"4.-Salir"<<endl;
 	cout<<"Escoge una opcion:";
+	cout<<"agregando comit en la rama ejemplo"<<enld;
 	entrada=tomarInt();
 	switch(entrada){
 		case 1:{
