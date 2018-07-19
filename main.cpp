@@ -65,7 +65,7 @@ bool menuPrincipal(){
 system("clear");
 fflush(stdin);
 int entrada;
-
+	cout<<"usanndo git hub"<<endl;
 	cout<<"Registro Escuela"<<endl;
 	cout<<"1.-Altas"<<endl;
 	cout<<"2.-Consultas"<<endl;
